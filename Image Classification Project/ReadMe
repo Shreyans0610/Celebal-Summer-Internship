@@ -2,4 +2,6 @@ Aim to classify images into multiple categories, such as identifying different s
 such as Support Vector Machines (SVM), Random Forests, or Gradient Boosting Machines, to perform the classification task.
 
 The Dataset being used is Plant Pathology 2020 - FGVC7
+
+Kindly refer the dataset through the Link provided below
 Link: https://www.kaggle.com/c/plant-pathology-2020-fgvc7
