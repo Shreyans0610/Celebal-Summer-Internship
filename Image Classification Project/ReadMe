@@ -1,0 +1,5 @@
+Aim to classify images into multiple categories, such as identifying different species of plants or animals, using traditional machine learning techniques rather than transfer learning. We will extract handcrafted features from the images and train machine learning models,
+such as Support Vector Machines (SVM), Random Forests, or Gradient Boosting Machines, to perform the classification task.
+
+The Dataset being used is Plant Pathology 2020 - FGVC7
+Link: https://www.kaggle.com/c/plant-pathology-2020-fgvc7
